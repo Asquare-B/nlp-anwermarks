@@ -1,0 +1,25 @@
+.con1{
+    margin: 10px;
+}
+
+.card{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgba(85, 255, 255, 0.275);
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+
+.text{
+    width: 80%;
+}
+
+button{
+    padding: 10px 15px;
+    background-color: rgba(74, 194, 4, 0.733);
+    border: 10px;
+    border-radius: 10px;
+}
+
